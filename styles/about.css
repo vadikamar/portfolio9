@@ -1,3 +1,11 @@
+@media screen and (max-width: 600px) {
+
+  .navi,.infocardContainer {
+      flex-direction: column;
+  }
+
+}
+
 a,a:visited{
   text-decoration: none; /* Remove underline */
   color: aliceblue;
